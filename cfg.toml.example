@@ -1,0 +1,3 @@
+[esp32-test2]
+wifi_ssid = "toto"
+wifi_psk = "titi"
